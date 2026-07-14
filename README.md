@@ -1,2 +1,2 @@
 # Projeto-python
-Projeto pyton criado do zero
+Projeto python para revisar
