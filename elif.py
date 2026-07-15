@@ -1,6 +1,6 @@
 # Variavel
 
-valor_compra = 801
+valor_compra = int(input("Digite o valor da compra: "))
 
 if valor_compra > 1000:
     print('frete gratis')
